@@ -1,6 +1,8 @@
 # Domain-Lookup-Script-using-ChatGPT 3
 Domain Lookup Script using ChatGPT API is a program that automates the process of identifying vendors from the Internet.
 
+**Note:** The foundation of this script is GPT3. Since OpenAI API syntax has changed a lot and this script was written using an outdated format, it might not function correctly with the most recent version of the OpenAI API. Hopefully soon, it will be updated with the most recent format that seamlessly integrates with the GPT4 API.  
+
 **Features:** 
 
 The Python script uses natural language processing to understand the vendor name and extract relevant information from the internet. It then applies machine learning algorithms to identify the official websites of the vendor. The script is user-friendly and can be customized to suit specific needs.
