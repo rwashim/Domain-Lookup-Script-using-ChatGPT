@@ -1,4 +1,4 @@
-# Domain-Lookup-Script-using-ChatGPT
+# Domain-Lookup-Script-using-ChatGPT 3
 Domain Lookup Script using ChatGPT API is a program that automates the process of identifying vendors from the Internet.
 
 **Features:** 
