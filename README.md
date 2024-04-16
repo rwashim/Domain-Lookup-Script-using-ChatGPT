@@ -76,6 +76,7 @@ Time (only in seconds) is the only argument required for this function. then sta
 4. Function API():
 
 To avoid having to enter your API key each time this script is run, this method saves your API key or token into a text file called APIKey.txt
+
 ![image-20230224-112316](https://github.com/rwashim/Domain-Lookup-Script-using-ChatGPT/assets/44086222/f356c93f-f77f-4157-9e9b-bd49c66cb478)
 
 5. Function APIreq():
